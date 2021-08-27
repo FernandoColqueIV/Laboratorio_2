@@ -1,0 +1,117 @@
+﻿using System;
+namespace EjerciciosClase1{
+    public class EJ1{
+        public static void Main(string[] args){
+           
+	    // metodo de los milisegundos
+            int ms = DateTime.Now.Millisecond;
+            int dadoUno = ms%6+1;
+            Console.WriteLine("Primer dado: {0}", dadoUno);
+
+            // metodo de Random
+            Random dadoDos=new Random();
+            int aleatorio=dadoDos.Next(1, 101);
+            Console.WriteLine("Segundo dado: {0}",dadoDos);
+        }
+    }
+}
+---------------------------------------------------------------------------
+﻿using System;
+namespace EjerciciosClase1{
+    public class EJ2{
+        public static void Main(string[] args){
+            
+	    Random dado=new Random();
+
+            int aleatorioUno=dado.Next(1, 11);
+            int aleatorioDos=dado.Next(11, 21);
+
+            Console.WriteLine("Numero entre 1 y 10: {0}",aleatorioUno);
+            Console.WriteLine("Numero entre 11 y 20: {0}",aleatorioDos);
+        }
+    }
+}
+-------------------------------------------------------------------------------
+using System;
+namespace EjerciciosClase1{
+    public class EJ3{
+        public static void Main(string[] args){
+            
+	    Random dado=new Random();
+            int aleatorio=dado.Next(1, 7);
+
+            int numeroIngresado;
+
+            int vidas=3;
+            bool acertado=false;
+
+            do{
+                numeroIngresado=Convert.ToInt32(Console.Read());
+
+                if (numeroIngresado==aleatorio){
+                    Console.WriteLine("Felicidades! Acertaste.");
+                    Console.WriteLine("Con 0 vidas restantes", vidas);
+                    acertado = true;
+                }else{
+                    
+		    Console.Write("Fallaste: ");
+
+                    if (numeroIngresado>aleatorio){
+                        
+			Console.WriteLine("Te Pasaste");
+
+                    }else if(numeroIngresado<aleatorio){
+                        
+			Console.WriteLine("Cerca");
+                    }
+		vidas--;
+                }
+            }while(vidas>0 && ! acertado);
+        }
+    }
+}
+----------------------------------------------------------------------------------
+using System;
+namespace EjerciciosClase1{
+    class MainClass{
+        public static void Main(string[] args){
+
+            Random dado=new Random();
+
+            int aleatorio;
+            int vidas=13;
+
+            bool acertado=false;
+
+            do{
+                Console.Write("Elegi el numero que creas que salio en el dado: ");
+                int numIngresado=Convert.ToInt32(Console.ReadLine());
+
+                aleatorio= dado.Next(1, 10001);
+
+                if(numIngresado==aleatorio){
+
+                    Console.WriteLine("Acertaste");
+                    acertado=true;
+                }else{
+
+                    if(numIngresado>aleatorio){
+
+                        Console.WriteLine("Te pasaste");
+
+                    }else if(numIngresado<aleatorio){
+
+                        Console.WriteLine("Cerca");
+                    }
+
+                    Console.WriteLine("Fallaste, intenta de nuevo");
+                    vidas--;
+                    Console.WriteLine("Te quedan 0 vidas", vidas);
+                }
+            }while(!acertado && vidas>0);
+
+        }
+
+    }
+
+}
