@@ -1,0 +1,10 @@
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 13\Calcular_Propiedad\bin\Debug\Calcular_Propiedad.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 13\Calcular_Propiedad\bin\Debug\Calcular_Propiedad.exe
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 13\Calcular_Propiedad\bin\Debug\Calcular_Propiedad.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 13\Calcular_Propiedad\obj\Debug\Calcular_Propiedad.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 13\Calcular_Propiedad\obj\Debug\Calcular_Propiedad.Form1.resources
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 13\Calcular_Propiedad\obj\Debug\Calcular_Propiedad.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 13\Calcular_Propiedad\obj\Debug\Calcular_Propiedad.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 13\Calcular_Propiedad\obj\Debug\Calcular_Propiedad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 13\Calcular_Propiedad\obj\Debug\Calcular_Propiedad.exe
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 13\Calcular_Propiedad\obj\Debug\Calcular_Propiedad.pdb
