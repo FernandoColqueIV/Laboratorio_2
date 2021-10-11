@@ -1,0 +1,7 @@
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 14\Clase 14 Ej 1\bin\Debug\Clase 14 Ej 1.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 14\Clase 14 Ej 1\bin\Debug\Clase 14 Ej 1.exe
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 14\Clase 14 Ej 1\bin\Debug\Clase 14 Ej 1.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 14\Clase 14 Ej 1\obj\Debug\Clase 14 Ej 1.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 14\Clase 14 Ej 1\obj\Debug\Clase 14 Ej 1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 14\Clase 14 Ej 1\obj\Debug\Clase 14 Ej 1.exe
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 14\Clase 14 Ej 1\obj\Debug\Clase 14 Ej 1.pdb
