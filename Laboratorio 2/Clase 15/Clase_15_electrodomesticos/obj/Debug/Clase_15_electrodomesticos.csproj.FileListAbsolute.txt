@@ -1,0 +1,7 @@
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 15\Clase_15_electrodomesticos\bin\Debug\Clase_15_electrodomesticos.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 15\Clase_15_electrodomesticos\bin\Debug\Clase_15_electrodomesticos.exe
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 15\Clase_15_electrodomesticos\bin\Debug\Clase_15_electrodomesticos.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 15\Clase_15_electrodomesticos\obj\Debug\Clase_15_electrodomesticos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 15\Clase_15_electrodomesticos\obj\Debug\Clase_15_electrodomesticos.exe
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 15\Clase_15_electrodomesticos\obj\Debug\Clase_15_electrodomesticos.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 15\Clase_15_electrodomesticos\obj\Debug\Clase_15_electrodomesticos.csproj.AssemblyReference.cache
