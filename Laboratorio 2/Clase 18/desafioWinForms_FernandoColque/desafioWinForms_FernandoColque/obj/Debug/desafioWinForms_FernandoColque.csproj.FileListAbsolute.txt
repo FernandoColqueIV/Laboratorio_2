@@ -1,0 +1,10 @@
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 18\desafioWinForms_FernandoColque\desafioWinForms_FernandoColque\bin\Debug\desafioWinForms_FernandoColque.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 18\desafioWinForms_FernandoColque\desafioWinForms_FernandoColque\bin\Debug\desafioWinForms_FernandoColque.exe
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 18\desafioWinForms_FernandoColque\desafioWinForms_FernandoColque\bin\Debug\desafioWinForms_FernandoColque.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 18\desafioWinForms_FernandoColque\desafioWinForms_FernandoColque\obj\Debug\desafioWinForms_FernandoColque.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 18\desafioWinForms_FernandoColque\desafioWinForms_FernandoColque\obj\Debug\desafioWinForms_FernandoColque.Form1.resources
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 18\desafioWinForms_FernandoColque\desafioWinForms_FernandoColque\obj\Debug\desafioWinForms_FernandoColque.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 18\desafioWinForms_FernandoColque\desafioWinForms_FernandoColque\obj\Debug\desafioWinForms_FernandoColque.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 18\desafioWinForms_FernandoColque\desafioWinForms_FernandoColque\obj\Debug\desafioWinForms_FernandoColque.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 18\desafioWinForms_FernandoColque\desafioWinForms_FernandoColque\obj\Debug\desafioWinForms_FernandoColque.exe
+C:\Users\Usuario\OneDrive\Escritorio\Laboratorio2\Clase 18\desafioWinForms_FernandoColque\desafioWinForms_FernandoColque\obj\Debug\desafioWinForms_FernandoColque.pdb
