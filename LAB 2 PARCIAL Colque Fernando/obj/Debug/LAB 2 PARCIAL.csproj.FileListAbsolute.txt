@@ -1,0 +1,28 @@
+C:\Users\Usuario\OneDrive\Escritorio\Parcial LABORATORIO 2\LAB 2 PARCIAL\bin\Debug\LAB 2 PARCIAL.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Parcial LABORATORIO 2\LAB 2 PARCIAL\bin\Debug\LAB 2 PARCIAL.exe
+C:\Users\Usuario\OneDrive\Escritorio\Parcial LABORATORIO 2\LAB 2 PARCIAL\bin\Debug\LAB 2 PARCIAL.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Parcial LABORATORIO 2\LAB 2 PARCIAL\obj\Debug\LAB 2 PARCIAL.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Parcial LABORATORIO 2\LAB 2 PARCIAL\obj\Debug\LAB_2_PARCIAL.Form2_ContadorBajas.resources
+C:\Users\Usuario\OneDrive\Escritorio\Parcial LABORATORIO 2\LAB 2 PARCIAL\obj\Debug\LAB_2_PARCIAL.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\Parcial LABORATORIO 2\LAB 2 PARCIAL\obj\Debug\LAB 2 PARCIAL.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\Parcial LABORATORIO 2\LAB 2 PARCIAL\obj\Debug\LAB 2 PARCIAL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Parcial LABORATORIO 2\LAB 2 PARCIAL\obj\Debug\LAB 2 PARCIAL.exe
+C:\Users\Usuario\OneDrive\Escritorio\Parcial LABORATORIO 2\LAB 2 PARCIAL\obj\Debug\LAB 2 PARCIAL.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Parcial LABORATORIO 2\LAB 2 PARCIAL\obj\Debug\LAB_2_PARCIAL.Form1.resources
+C:\Users\Usuario\OneDrive\Escritorio\Parcial LABORATORIO 2\LAB 2 PARCIAL\obj\Debug\LAB_2_PARCIAL.Form_fuerza_naval.resources
+C:\Users\Usuario\OneDrive\Escritorio\Parcial LABORATORIO 2\LAB 2 PARCIAL\obj\Debug\LAB_2_PARCIAL.Form_fuerza_terrestre.resources
+C:\Users\Usuario\OneDrive\Escritorio\Parcial LABORATORIO 2\LAB 2 PARCIAL\obj\Debug\LAB_2_PARCIAL.Form_Fuerza_Aerea.resources
+C:\Users\Usuario\OneDrive\Escritorio\LAB 2 PARCIAL Colque Fernando\bin\Debug\LAB 2 PARCIAL.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\LAB 2 PARCIAL Colque Fernando\bin\Debug\LAB 2 PARCIAL.exe
+C:\Users\Usuario\OneDrive\Escritorio\LAB 2 PARCIAL Colque Fernando\bin\Debug\LAB 2 PARCIAL.pdb
+C:\Users\Usuario\OneDrive\Escritorio\LAB 2 PARCIAL Colque Fernando\obj\Debug\LAB 2 PARCIAL.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\LAB 2 PARCIAL Colque Fernando\obj\Debug\LAB_2_PARCIAL.Form_Fuerza_Aerea.resources
+C:\Users\Usuario\OneDrive\Escritorio\LAB 2 PARCIAL Colque Fernando\obj\Debug\LAB_2_PARCIAL.Form1.resources
+C:\Users\Usuario\OneDrive\Escritorio\LAB 2 PARCIAL Colque Fernando\obj\Debug\LAB_2_PARCIAL.Form2_ContadorBajas.resources
+C:\Users\Usuario\OneDrive\Escritorio\LAB 2 PARCIAL Colque Fernando\obj\Debug\LAB_2_PARCIAL.Form_fuerza_naval.resources
+C:\Users\Usuario\OneDrive\Escritorio\LAB 2 PARCIAL Colque Fernando\obj\Debug\LAB_2_PARCIAL.Form_Fuerza_Terrestre.resources
+C:\Users\Usuario\OneDrive\Escritorio\LAB 2 PARCIAL Colque Fernando\obj\Debug\LAB_2_PARCIAL.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\LAB 2 PARCIAL Colque Fernando\obj\Debug\LAB 2 PARCIAL.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\LAB 2 PARCIAL Colque Fernando\obj\Debug\LAB 2 PARCIAL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\LAB 2 PARCIAL Colque Fernando\obj\Debug\LAB 2 PARCIAL.exe
+C:\Users\Usuario\OneDrive\Escritorio\LAB 2 PARCIAL Colque Fernando\obj\Debug\LAB 2 PARCIAL.pdb
